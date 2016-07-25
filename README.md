@@ -1,2 +1,2 @@
 # Neato-LidarScanner
-a easy software for Reading NEATO Lidar's data
+a easy mfc software for Reading NEATO Lidar's data
